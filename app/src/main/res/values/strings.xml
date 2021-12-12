@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">ynocChat2</string>
+    <string name="app_name">QuentinsApp</string>
+    <string name="password">Mot de passe</string>
+    <string name="username">Mr malboro light</string>
 </resources>
